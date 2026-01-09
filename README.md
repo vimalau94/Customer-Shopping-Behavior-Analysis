@@ -34,4 +34,8 @@ This file contains:
      - Build presentation deck using Gamma AI
 **👨‍💻 About the Author**
 Hey, I’m vimala upputuru, a Data Analyst and Data Sceince job seeker.
- 
+**📬 Contact**
+👩‍💻 Vimala Upputuru
+GitHub: https://github.com/vimalau94
+LinkedIn: https://www.linkedin.com/in/vimala-upputuru-5b66aa336
+Email: vimalau9413@gmail.com
